@@ -4,31 +4,37 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Lee+Puo+Waye&fontColor=ffffff&fontSize=50)
 
 <!-- typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&width=520&lines=Communications+and+networking+student;Power+allocation+for+massive+MIMO;Real-time+data+with+Node-RED+and+MQTT)](https://github.com/lvmtx)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&width=560&lines=AutoCount+ERP+plugins+in+C%23;Front-ends+with+React+and+Three.js;Networking+and+IoT+underneath)](https://lvmtx.vercel.app)
 
 </div>
 
 <!-- about -->
 ## About me
 
-- I am a final-year communications and networking student at Universiti Tunku Abdul Rahman.
-- My final year project optimized a power allocation algorithm for energy efficiency in downlink B5G massive MIMO systems.
-- I have worked with Node-RED, MATLAB and MQTT, and I am interested in networking, real-time system integration and data analytics.
-- I am based in Malaysia.
+- I am a software engineer at Daxonet, building AutoCount Accounting and POS plugins in C# / .NET and integrating AutoCount with other systems through REST APIs.
+- On the side I build front-ends with React, Vite, Tailwind and Three.js.
+- I hold a B.IT (Hons) in Communications and Networking from UTAR, and my final year project was a B5G massive MIMO power allocation algorithm simulated in MATLAB.
+- I am based in Malaysia and open to full-time, contract and freelance work.
 
 <!-- tools -->
 ## Tools I use
 
 <div align="center">
 
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
 
 </div>
 
@@ -45,10 +51,14 @@
 <!-- featured builds -->
 ## Featured builds
 
+More on my [portfolio](https://lvmtx.vercel.app).
+
 | Project | Outcome |
 | --- | --- |
-| Final year project (not on GitHub yet) | Optimized a power allocation algorithm for energy efficiency in downlink B5G massive MIMO systems. |
-<!-- Add repos here once public:
+| Product landing pages | Four scroll-driven pages in distinct styles, including a Three.js 3D can that turns and changes flavour as you scroll. |
+| e-Invoice readiness check | Validates an invoice field by field against LHDN MyInvois rules and code lists. |
+| Sales dashboard | Turns an ERP or POS export into revenue by month and outlet, top sellers and slow movers. |
+<!-- Swap in repo links once public:
 | [repo-name](https://github.com/lvmtx/repo-name) | One-line outcome. |
 -->
 
@@ -57,12 +67,9 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-lvmtx-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lvmtx)
-<!-- Uncomment and fill in:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Website](https://img.shields.io/badge/Website-Visit-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_WEBSITE_URL)
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lvmtx-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lvmtx)
+[![Email](https://img.shields.io/badge/Email-jeremylpw@yahoo.com-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:jeremylpw@yahoo.com)
+[![Website](https://img.shields.io/badge/Portfolio-lvmtx.vercel.app-2c5364?style=for-the-badge&logo=vercel&logoColor=white)](https://lvmtx.vercel.app)
 
 </div>
 
