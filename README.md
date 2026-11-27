@@ -1,6 +1,12 @@
-# Hi, I'm Jeremy Lee
+<!-- header banner -->
+<div align="center">
 
-**I connect AutoCount ERP to other systems, then build the React front-ends on top.**
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Lee+Puo+Waye&fontColor=ffffff&fontSize=50)
+
+<!-- typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&width=560&lines=AutoCount+ERP+plugins+in+C%23;Front-ends+with+React+and+Vite;Networking+and+IoT+underneath)](https://lvmtx.com)
+
+</div>
 
 <!-- about -->
 ## About me
@@ -32,6 +38,16 @@
 
 </div>
 
+<!-- stats -->
+## GitHub stats
+
+<div align="center">
+
+![Stats](https://github-stats-extended.vercel.app/api?username=lvmtx&show_icons=true&theme=tokyonight)
+![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=lvmtx&layout=compact&theme=tokyonight)
+
+</div>
+
 <!-- featured builds -->
 ## Featured builds
 
@@ -40,9 +56,6 @@ More on my [portfolio](https://lvmtx.com).
 | Project | Outcome |
 | --- | --- |
 | [Dreamie Gifts Studio](https://dreamiegifts.com/) | Client storefront for a Malaysian gift studio, browsable by price tier. React, Vite, Tailwind. |
-| Product landing pages | Four scroll-driven pages in distinct styles, including a Three.js 3D can that turns and changes flavour as you scroll. |
-| e-Invoice readiness check | Validates an invoice field by field against LHDN MyInvois rules and code lists. |
-| Sales dashboard | Turns an ERP or POS export into revenue by month and outlet, top sellers and slow movers. |
 <!-- Swap in repo links once public:
 | [repo-name](https://github.com/lvmtx/repo-name) | One-line outcome. |
 -->
@@ -55,5 +68,12 @@ More on my [portfolio](https://lvmtx.com).
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lvmtx-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lvmtx)
 [![Email](https://img.shields.io/badge/Email-jeremylpw@yahoo.com-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:jeremylpw@yahoo.com)
 [![Website](https://img.shields.io/badge/Portfolio-lvmtx.com-2c5364?style=for-the-badge&logo=vercel&logoColor=white)](https://lvmtx.com)
+
+</div>
+
+<!-- footer -->
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer)
 
 </div>
