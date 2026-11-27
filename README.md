@@ -1,7 +1,7 @@
 <!-- header banner -->
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Lee+Puo+Waye&fontColor=ffffff&fontSize=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Jeremy+Lee&fontColor=ffffff&fontSize=50)
 
 <!-- typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&width=560&lines=AutoCount+ERP+plugins+in+C%23;Front-ends+with+React+and+Vite;Networking+and+IoT+underneath)](https://lvmtx.com)
